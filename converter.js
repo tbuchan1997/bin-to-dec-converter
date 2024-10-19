@@ -11,5 +11,3 @@ function binaryToDecimal() {
         }
     });
 }
-
-// Call the function to set up the event listener
